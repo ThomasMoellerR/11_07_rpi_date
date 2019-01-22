@@ -1,0 +1,24 @@
+[
+    {
+        "topic":"thermostat/set_temperature",
+        "payload":"20.0",
+        "date":"2019-01-22 19:48:00"
+    },
+    {
+        "topic":"thermostat/set_temperature",
+        "payload":"0.0",
+        "date":"every 22:00:00"
+    },
+    {
+        "topic":"thermostat/set_temperature",
+        "payload":"30.0",
+        "date":"every 05:40:00"
+    },
+    {
+        "topic":"thermostat/set_temperature",
+        "payload":"0.0",
+        "date":"every 06:00:00"
+    }
+]
+
+
